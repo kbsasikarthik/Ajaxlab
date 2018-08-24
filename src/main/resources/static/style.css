@@ -1,0 +1,20 @@
+.heading{
+	font-style :italic;
+	font-weight: bold;
+	text-decoration: underline;
+	text-align: center;
+	color: #11BF3E;
+	
+}
+h1{
+	text-align: center;
+	color: #BB11B4;	
+}
+table, td{
+	border-collapse: collapse;
+	border: 1px solid black;
+	
+}
+.tabBody{
+	color: #E51272;
+}
